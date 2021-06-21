@@ -1,0 +1,134 @@
+class,chemical
+Amines,Creatinine
+Amino acids,Glycine
+Amino acids,Alanine
+Amino acids,Serine
+Amino acids,Histamine
+Amino acids,Proline
+Amino acids,Valine
+Amino acids,Threonine
+Amino acids,Taurine
+Amines,Putrescine
+Amines,trans.Hydroxyproline
+Amino acids,Leucine
+Amino acids,Isoleucine
+Amino acids,Asparagine
+Amino acids,Aspartic.acid
+Amino acids,Glutamine
+Amino acids,Glutamic.acid
+Amino acids,Methionine
+Amino acids,Histidine
+Amines,alpha.Aminoadipic.acid
+Amino acids,Phenylalanine
+Amines,Methionine.sulfoxide
+Amino acids,Arginine
+Amines,Acetyl.ornithine
+Amines,Citrulline
+Amines,Serotonin
+Amino acids,Tyrosine
+Amines,Asymmetric.dimethylarginine
+Amines,Total.dimethylarginine
+Amino acids,Tryptophan
+Amines,Kynurenine
+Amines,Carnosine
+Amino acids,Ornithine
+Amino acids,Lysine
+Amines,Spermidine
+Amines,Spermine
+Amines,Sarcosine
+Others,Creatine
+Amino acids,Betaine
+Others,Choline
+Amines,Trimethylamine.N.oxide
+Amino acids,Methylhistidine
+Organic acids,Lactic.acid
+Organic acids,beta.Hydroxybutyric.acid
+Organic acids,alpha.Ketoglutaric.acid
+Organic acids,Citric.acid
+Organic acids,Butyric.acid
+Organic acids,Isobutyric.acid
+Organic acids,Propionic.acid
+Organic acids,p.Hydroxyhippuric.acid
+Organic acids,Succinic.acid
+Organic acids,Fumaric.acid
+Organic acids,Pyruvic.acid
+Organic acids,Hippuric.acid
+Organic acids,Methylmalonic.acid
+Organic acids,Indole.acetic.acid
+Organic acids,Uric.acid
+Organic acids,Acetic.acid
+Organic acids,Glucose
+Glycerophospholipids,LYSOC14.0
+Glycerophospholipids,LYSOC16.1
+Glycerophospholipids,LYSOC16.0
+Glycerophospholipids,LYSOC17.0
+Glycerophospholipids,LYSOC18.2
+Glycerophospholipids,LYSOC18.1
+Glycerophospholipids,LYSOC18.0
+Glycerophospholipids,LYSOC20.4
+Glycerophospholipids,LYSOC20.3
+Glycerophospholipids,LYSOC24.0
+Glycerophospholipids,LYSOC26.1
+Glycerophospholipids,LYSOC26.0
+Glycerophospholipids,LYSOC28.1
+Glycerophospholipids,LYSOC28.0
+Glycerophospholipids,X14.1SMOH
+Glycerophospholipids,X16.1SM
+Glycerophospholipids,X16.0SM
+Glycerophospholipids,X16.1SMOH
+Glycerophospholipids,X18.1SM
+Glycerophospholipids,PC32.2AA
+Glycerophospholipids,X18.0SM
+Glycerophospholipids,X20.2SM
+Glycerophospholipids,PC36.0AE
+Glycerophospholipids,PC36.6AA
+Glycerophospholipids,PC36.0AA
+Glycerophospholipids,X22.2SMOH
+Glycerophospholipids,X22.1SMOH
+Glycerophospholipids,PC38.6AA
+Glycerophospholipids,PC38.0AA
+Glycerophospholipids,PC40.6AE
+Glycerophospholipids,X24.1SMOH
+Glycerophospholipids,PC40.6AA
+Glycerophospholipids,PC40.2AA
+Glycerophospholipids,PC40.1AA
+Acyl carnitines,C0
+Acyl carnitines,C2
+Acyl carnitines,C3.1
+Acyl carnitines,C3
+Acyl carnitines,C4.1
+Acyl carnitines,C4
+Acyl carnitines,C3OH
+Acyl carnitines,C5.1
+Acyl carnitines,C5
+Acyl carnitines,C4OH
+Acyl carnitines,C6.1
+Acyl carnitines,C6
+Acyl carnitines,C5OH
+Acyl carnitines,C5.1DC
+Acyl carnitines,C5DC
+Acyl carnitines,C8
+Acyl carnitines,C5MDC
+Acyl carnitines,C9
+Acyl carnitines,C7DC
+Acyl carnitines,C10.2
+Acyl carnitines,C10.1
+Acyl carnitines,C10
+Acyl carnitines,C12.1
+Acyl carnitines,C12
+Acyl carnitines,C14.2
+Acyl carnitines,C14.1
+Acyl carnitines,C14
+Acyl carnitines,C12DC
+Acyl carnitines,C14.2OH
+Acyl carnitines,C14.1OH
+Acyl carnitines,C16.2
+Acyl carnitines,C16.1
+Acyl carnitines,C16
+Acyl carnitines,C16.2OH
+Acyl carnitines,C16.1OH
+Acyl carnitines,C16OH
+Acyl carnitines,C18.2
+Acyl carnitines,C18.1
+Acyl carnitines,C18
+Acyl carnitines,C18.1OH
